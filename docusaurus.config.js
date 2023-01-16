@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 const config = {
     title: 'hikyuuPX\'s Wiki',
     tagline: '^_^',
-    url: 'https://https://hikyuupx.github.io',
+    url: 'https://hikyuupx.github.io',
     baseUrl: '/docusaurus/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
