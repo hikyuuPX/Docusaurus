@@ -11,7 +11,7 @@ const config = {
     title: 'hikyuuPX\'s Wiki',
     tagline: '^_^',
     url: 'https://https://hikyuupx.github.io',
-    baseUrl: '/docusaurus',
+    baseUrl: '/docusaurus/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/earth.svg',
